@@ -11,3 +11,6 @@ allow SteamNative everything and give it SystemEvents.app And Accesability and A
 
 What it does:
 it opens steam.exe through wine/crossover but not opens it great for people who want to play Windows games on mac without emulaters 
+
+
+Used:Automator,zsh,Mac Mini M4, Wine
